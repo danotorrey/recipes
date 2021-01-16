@@ -7,7 +7,7 @@ A moist and airy chocolate cake. Adapted from [Aunt Hazels Brownies](https://git
 
 ## Ingredients 
 
-- 100g unsweeted chocolate. I use [Lindt Edelbitter Mild](https://www.lindt.de/catalog/product/view/id/6628/) 70-90%, but you can use whatever you like.
+- 100g unsweeted chocolate. I use [Lindt Edelbitter Mild](https://www.lindt.de/catalog/product/view/id/6628/) 70-90% (full bar), but you can use whatever you like.
 - 2/3 cup (150g) unsalted butter
 - 3 eggs
 - 1 tablespoon pure vanilla

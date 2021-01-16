@@ -1,2 +1,4 @@
-# recipes
-A collection of personal recipes
+# Recipes
+A collection of personal recipes.
+
+- [Chocolate Cake](chocolate-cake.md)

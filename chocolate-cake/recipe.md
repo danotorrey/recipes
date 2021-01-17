@@ -27,7 +27,7 @@ A moist and airy chocolate cake. Adapted from [Aunt Hazels Brownies](https://git
 4) Thoroughly whisk in eggs, vanilla, milk and salt.
 5) Add the flour and baking powder. Quickly until uniformly combined. Batter consistency should be just liquid enough to where drips from the spoon almost keep their shape when landing on the surface. If the drops disappear, it's too wet (add some flour). If they are too clumpy, add some milk. More milk will make it more moist, but too much can lead to a cake that rises and collapses at the end. 
 6) Pour the batter into the baking disk. 
-7) Bake @ 350 for 30-40 mins. Time entirely depends on your baking dish shape/depth. The deeper, the longer the cook will take. You will see cake rising as it cooks. When it's done, you might see the rising stop and a slight sinkage. If you see that, you're done!
+7) Bake @ 350°F (160°C) for 30-40 mins. Time entirely depends on your baking dish shape/depth. The deeper, the longer the cook will take. You will see cake rising as it cooks. When it's done, you might see the rising stop and a slight sinkage. If you see that, you're done!
 8) Let cake cool before turning over the form (if using a Bundt cake form or similar).
 
 After coming out of the oven:
